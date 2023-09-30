@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**novikovps/novikovps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+    <a href="https://t.me/i_might_be_anyone"><img src="https://badgen.net/badge/icon/%40i_might_be_anyone?icon=telegram&label=TG" /></a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a DevOps engineer with 10+ years expirience in system/network administration.
+
+### 🧰 Stack:
+
+**Configuration management**: Ansible
+
+**Provisioning**: Terraform
+
+**Containers and orchestration**: Docker, Swarm, Kubernetes, Helm
+
+**Monitoring and logs**: Zabbix, Prometheus, Grafana
+
+**CI/CD**: GitlabCI, ArgoCD
