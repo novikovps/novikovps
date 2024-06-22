@@ -11,9 +11,9 @@ I'm a DevOps engineer with 10+ years expirience in system/network administration
 
 **Configuration management**: Ansible
 
-**Provisioning**: Terraform
+**Provisioning**: Terraform, Pulumi
 
-**Containers and orchestration**: Docker, Swarm, Kubernetes, Helm
+**Containers and orchestration**: Docker, Kubernetes, Helm
 
 **Monitoring and logs**: Zabbix, Prometheus, Grafana
 
